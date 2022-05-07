@@ -18,26 +18,36 @@ If anyone finds that kind of situation, you can tell the hr directly, to maintai
 
 
 Book Brainiacs (C#, ASP.NET, ADO.NET, Ajax)(Class Project)(Fall 2018)(One project partner)
+
 •	Designed and implemented shopping cart features. Implemented the function for customers to browse books
+
 •	Allowed customers to submit contact information. Updated their profile information
+
 •	Allowed the administrator to manage user roles, book category information, and contact information
 
-Audio:
-https://drive.google.com/file/d/1c2eFn6IwYBb3h2rXL7HNOejdbMo9NZov/view?usp=sharing
+Audio: https://drive.google.com/file/d/1c2eFn6IwYBb3h2rXL7HNOejdbMo9NZov/view?usp=sharing
 
 PHP Website(PHP, MongoDB, XAMPP)(Class Project)(Fall 2019)
+
 •	Created and populated a MongoDB collection. Built a script that restricted access to the valid users we created in the collection. Encrypted all passwords from the users' collection
+
 •	Built a logout script that cleared all sessions and cookies. Returned controls back to the login page
+
 •	Verified admin users. Built logic for adding, updating, and deleting users
+
 •	Used reCaptcha to capture the response from Google to differentiate humans from robotic software programs
 
 What impact does language have on source quality?(Class Project)(Spring 2019)(One project partner)
+
 •	Extracted data from 121,298 files, 135 public repositories on GitHub
+
 •	Created custom feature extractors for each language using publicly available ANTLR4 grammars
+
 •	Calculated some additional features from the dataset
+
 •	Provided insights of the real-world strengths and weaknesses of various languages naturally utilized by a typical team of engineers
-Audio:
-https://drive.google.com/file/d/1SMXjyJUZr3t-THqSjBUBOGmvDpPW5bjY/view?usp=sharing
+
+Audio: https://drive.google.com/file/d/1SMXjyJUZr3t-THqSjBUBOGmvDpPW5bjY/view?usp=sharing
 
 
 
