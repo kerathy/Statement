@@ -21,6 +21,7 @@ Book Brainiacs (C#, ASP.NET, ADO.NET, Ajax)(Class Project)(Fall 2018)(One projec
 •	Designed and implemented shopping cart features. Implemented the function for customers to browse books
 •	Allowed customers to submit contact information. Updated their profile information
 •	Allowed the administrator to manage user roles, book category information, and contact information
+
 Audio:
 https://drive.google.com/file/d/1c2eFn6IwYBb3h2rXL7HNOejdbMo9NZov/view?usp=sharing
 
