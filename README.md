@@ -81,7 +81,10 @@ A Restaurant Search App
 •	Visualized the real-time result of different restaurants and their detailed information between different screens
 
 
-If anyone has any other concerns, please feel free to contact me(LinkedIn).
+If anyone has any other concerns, please feel free to contact me(LinkedIn). Attached is my resume.
+
+[Xiaoyan_Xu _resume_version13.pdf](https://github.com/kerathy/Statement/files/8710711/Xiaoyan_Xu._resume_version13.pdf)
+
 
 A Chinese proverb: 君子坦荡荡，小人长戚戚
 
