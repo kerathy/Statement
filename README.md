@@ -1,4 +1,4 @@
-Statement Audio(I created the audio on May 7th, 2022):
+Statement Audio(I recorded the audio on May 7th, 2022):
 https://drive.google.com/file/d/1_NaJneoA0KdtLOxSNkWRyoAmAjEwbZMQ/view?usp=sharing
 
 
