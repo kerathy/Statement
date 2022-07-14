@@ -123,6 +123,6 @@ https://docs.google.com/document/d/1peQ2ImqMTU1R6-V4k0WZVey-4oYK5jzjgpwSN29J94g/
 
 
 
-A Chinese proverb: 君子坦荡荡，小人长戚戚;别以小人之心度君子之腹
+A Chinese proverb: 君子坦荡荡，小人长戚戚; 别以小人之心度君子之腹
 
 
