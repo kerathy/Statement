@@ -35,8 +35,15 @@ Don't pretend to be me to get any interview opportunities or for any other purpo
 Don't pretend to be me to get any opportunities (including, but not limited to, job opportunities). In case someone is pretending to be me using those gmail accounts, xuxiaoyan152@gmail.com (the previous one, when I joined the marketing program), and xiaoyanxu726@gmail.com (the current one, after one month of the marketing program), a company called SynergisticIT is helping me find a job to get interview opportunities. I signed up for the marketing program on April 14th, which couldn't stop my unemployment days. The last date for exceeding the unemployment limit is June 4th. I have already applied for a U visa; however, that can't stop my unemployment days, and I am waiting for the receipt notice. I don't have any income now. I have to find another job as soon as possible, so if there are any openings, please feel free to contact me directly at xu05172022@gmail.com. I have to maintain my work authorization status in the United States; those gmail accounts are the ones the company created for me, and I can't access them. That means I can't see what they responded to the recruiter with. Therefore, I am not responsible for their behavior. I will list all the interview opportunities I got through their companies. I've only had a few HR calls and three interviews until now. If someone else is pretending to be me for interviews, that is not me.
 
 
-1. chuwaamerica - May 10th 1:00 pm pst   2. New York Life - May 24th 10:00 am pst - financial related position(The initial interview position is an engineering-related position. That changed to a financial-related position in the interview process. The interviewer said that was a financial-related position. The last few digits of the Zoom meeting ID is 319734.) 3. NTT Data - July 8th, 12:00 am pst(The original interview appointment is at 11:30 a.m. PST; the actual interview is delayed by 30 minutes. Meeting ID: 706 768 8543)
-I say my name in the interview process.
+1. Chuwaamerica, May 10th, 1:00 p.m. PST
+
+2. New York Life, May 24th, 10:00 a.m. PST, financial-related position
+The initial interview position is an engineering-related position. That changed to a financial-related position in the interview process. The interviewer said that was a financial-related position. The last few digits of the Zoom meeting ID are 319734.
+
+3. NTT Data, July 8th, 12:00 a.m. PST
+The original interview appointment time is 11:30 a.m. PST; the actual interview is delayed by 30 minutes; the meeting ID is 7067688543.
+
+I say my name during the interviews.
 
 I can't reach out to HR's original emails. Just in case of fraud.
 
