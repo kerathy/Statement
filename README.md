@@ -45,7 +45,8 @@ The initial interview appointment time is 11:30 a.m. PST; the actual interview i
 
 I say my name during the interviews.
 
-I can't reach out to the emails HR sent to them; they just forwarded some to me. That means we can't guarantee the information's authenticity; there may be information distortion. Therefore, HR can confirm it directly with me again. just in case of fraud.
+
+I can't reach out to the initial emails HR sent to them; they just forwarded some to me. That means we can't guarantee the information's authenticity; there may be information distortion. Therefore, HR can confirm it directly with me again. just in case of fraud and information distortion.
 
 If there are multiple interviews, I will put a Google link here.
 
