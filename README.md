@@ -6,7 +6,7 @@ https://www.instagram.com/kerathy_xiaoyan/
 
 I am not bound to any companies. Any job opportunities are welcome.
 
-I don't conduct interviews on behalf of anyone. I say my name in the interview. My voice is easy to recognize. If it involves corruption, that's not something I can control.
+I don't conduct interviews on behalf of anyone. I say my name in the interview. My voice is easy to recognize. Don't pretend to be me; it's easy to tell. If it involves corruption, that's not something I can control.
 
 On May 7th, 2022, I made the statement (it should have been earlier; perhaps github can show the time; I forgot; it should have been earlier than when I uploaded the audio). Sometimes I update something, and the last updated date is June 14, 2022. I uploaded the audio on May 7, 2022.
 
