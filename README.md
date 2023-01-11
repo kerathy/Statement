@@ -1,4 +1,4 @@
-I didn't use any tools in the previous post; it was a draft. It's similar to "handwriting," a metaphor.
+I didn't use any tools in the post I wrote before; it was a draft. It's similar to "handwriting," a metaphor. I am rewriting now; it's not finished yet.
 
 Statement Audio (I recorded the audio on May 7th, 2022):
 https://drive.google.com/file/d/1_NaJneoA0KdtLOxSNkWRyoAmAjEwbZMQ/view?usp=sharing
