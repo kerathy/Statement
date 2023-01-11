@@ -45,9 +45,9 @@ The initial interview appointment time is 11:30 a.m. PST; the actual interview i
 
 I say my name during the interviews.
 
-I can't reach out to HR's original emails. Just in case of fraud.
+I can't reach out to the emails HR sent to them; they just forwarded some to me. That means we can't guarantee the information's authenticity; there may be information distortion. Therefore, HR can confirm it directly with me again. just in case of fraud.
 
-if there are multilple interviews, I will put a google link here.
+If there are multiple interviews, I will put a Google link here.
 
 If anyone has any doubts about the accounts icc use before(I can not log in xxyxuxiaoyan152@gmail.com and xiaoyanxu726@gmail.com these two accounts. Multiple people could log in to this account, xiaoyanxu77@gmail.com), or if anyone received any weird emails from these account, not me! Highly recommend to check that account creation time, the ip address and who used these accounts during that period(I mean the time you received the email, that should tell the answer.)
 
