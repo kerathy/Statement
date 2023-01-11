@@ -11,11 +11,13 @@ I don't conduct interviews on behalf of anyone. I say my name in the interview. 
 On May 7th, 2022, I made the statement (it should have been earlier; perhaps github can show the time; I forgot; it should have been earlier than when I uploaded the audio). Sometimes I update something, and the last updated date is June 14, 2022. I uploaded the audio on May 7, 2022.
 
 
-### Please do not affect my life or my career. There are no restrictions on my career. I like "step by step," and no matter who you are, I don't have any problems. I am not responsible for others' lives.
+
+### Please do not affect my life or career. There are no restrictions on my career. I like "step by step," and no matter who you are, I don't have any problems. I am not responsible for others' lives.
 ### Have an impact on others' lives or careers. (Tab: selfish people) None of my business! No matter what kind of decision you make, no one forces you to make it; it is up to you.
 
 
-### For all the projects I listed on my resume, all of them are finished by me, my project partner, my professor independently, no one else helps us. If they are used for any inappropriate purposes(university application, job application, commercial purpose), no matter who you are, I will pursue all the losses.
+
+### For all the projects I listed on my resume, all of them were finished by me, my project partner, and my professor independently; no one else helped us. If they are used for any inappropriate purposes (university applications, job applications, or commercial purposes), no matter who you are, I will pursue all the losses.
 
 If anyone pretends to be me or my friend to obtain any icbc's information through illegal channel, disclose anything that should not be disclosed, I am not responsible for that, no matter who you are, you should be responsible for your own behavior. I am not responsible for other's life, none of my business, no solution can be provided! I did not snitch on anyone, nor did I cooperate with others to snitch on anyone. I did not report anyone before. My family and I did not disclose anything about icbc(including but not limited to clinets' cases, internal stuffs) to anyone. I never discussed my job with anyone(including but not limited to family, friends, professors, etc). I wrote a little about icbc during the master of professional accounting, however, that is not important and not confidential. I did not start my dissertation, and I never disclosed anything that should not be disclosed. My friends never discussed their jobs with me after resignation. Do not influence my and my family members' career. 
 
