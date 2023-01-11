@@ -1,3 +1,5 @@
+I didn't use any tools in the previous post; it was a draft. It's similar to "handwriting," a metaphor.
+
 Statement Audio (I recorded the audio on May 7th, 2022):
 https://drive.google.com/file/d/1_NaJneoA0KdtLOxSNkWRyoAmAjEwbZMQ/view?usp=sharing
 
