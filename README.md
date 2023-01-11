@@ -41,7 +41,7 @@ Don't pretend to be me to get any opportunities (including, but not limited to, 
 The initial interview position is an engineering-related position. That changed to a financial-related position in the interview process. The interviewer said that was a financial-related position. The last few digits of the Zoom meeting ID are 319734.
 
 3. NTT Data, July 8th, 12:00 a.m. PST
-The original interview appointment time is 11:30 a.m. PST; the actual interview is delayed by 30 minutes; the meeting ID is 7067688543.
+The initial interview appointment time is 11:30 a.m. PST; the actual interview is delayed by 30 minutes; and the meeting ID is 7067688543.
 
 I say my name during the interviews.
 
