@@ -11,8 +11,8 @@ I don't conduct interviews on behalf of anyone. I say my name in the interview. 
 On May 7th, 2022, I made the statement (it should have been earlier; perhaps github can show the time; I forgot; it should have been earlier than when I uploaded the audio). Sometimes I update something, and the last updated date is June 14, 2022. I uploaded the audio on May 7, 2022.
 
 
-### Please do not affect my life, my career(no limitation!!! I like step by step), no matter who you are, I do not have any problems. I am not responsible for other's life.
-### Affect other's life, career(Tab - selfish people). None of my business!!! No matter what kind of decision you made, no one forces you to make that decision, it is up to you.
+### Please do not affect my life or my career. There are no restrictions on my career. I like "step by step," and no matter who you are, I don't have any problems. I am not responsible for others' lives.
+### Have an impact on others' lives or careers. (Tab: selfish people) None of my business! No matter what kind of decision you make, no one forces you to make it; it is up to you.
 
 
 ### For all the projects I listed on my resume, all of them are finished by me, my project partner, my professor independently, no one else helps us. If they are used for any inappropriate purposes(university application, job application, commercial purpose), no matter who you are, I will pursue all the losses.
