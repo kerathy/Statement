@@ -66,7 +66,7 @@ There is another reason I don't allow anyone else to use my resume. If that real
 
 
 
-I am not authorized to access that gmail account (even though I requested it multiple times), and they mentioned they had their own networks; the opportunities that came from their channels would be sent to xuxiaoyan152@gmail.com (the first gmail account they created when I joined the marketing program) and xiaoyanxu726@gmail.com (the gmail account they currently use, which they created after one month of the marketing program). I need to find another job as soon as possible, so I created a new account, xu05172022@gmail.com. Email can be sent to this account for any job opportunities, and my resume is attached below: https://docs.google.com/document/d/1peQ2ImqMTU1R6-V4k0WZVey-4oYK5jzjgpwSN29J94g/edit?usp=sharing
+I am not authorized to access those gmail accounts SynergisticIT created (even though I requested it multiple times), and they mentioned they had their own networks; the opportunities that came from their channels would be sent to xuxiaoyan152@gmail.com (the first gmail account they created when I joined the marketing program) and xiaoyanxu726@gmail.com (the gmail account they currently use, which they created after one month of the marketing program). I need to find a job as soon as possible, so I created a new account, xu05172022@gmail.com. Email can be sent to this account for any job opportunities, and my resume is attached below: https://docs.google.com/document/d/1peQ2ImqMTU1R6-V4k0WZVey-4oYK5jzjgpwSN29J94g/edit?usp=sharing
 
 I'll notify my company for the sake of our respective careers; don't worry about that.
 
