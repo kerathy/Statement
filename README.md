@@ -153,7 +153,7 @@ A Restaurant Search App
 
 Actually, I rarely talk about my career, my life, or my family with someone else. It is not surprising that they don't know about me. Some of them I haven't contacted or seen in more than a decade. For some things, they don't know and may just guess, and it doesn't matter. If anyone has any concerns, you can contact me directly. It is unnecessary to explain the work I did previously at ICBC to someone else. If you have never worked for a bank before, it is normal that you don't know what it is; it's not a big deal. Everyone’s career path is different; they may just guess what I did before looking at others' career paths; it doesn't matter. Again, I am not responsible for the lives of others; please do not slow me down.
 
-If anyone has any other concerns, please feel free to contact me(LinkedIn). Attached is my resume.
+If anyone has any concerns, please feel free to contact me through LinkedIn. Attached is my resume.
 https://docs.google.com/document/d/1peQ2ImqMTU1R6-V4k0WZVey-4oYK5jzjgpwSN29J94g/edit?usp=sharing
 
 
