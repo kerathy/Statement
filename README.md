@@ -111,11 +111,12 @@ Book Brainiacs (C#, ASP.NET, ADO.NET, and Ajax) (class project) (fall 2018) (one
 • Allowed the administrator to manage user roles, book category information, and contact information
 Audio: https://drive.google.com/file/d/1c2eFn6IwYBb3h2rXL7HNOejdbMo9NZov/view?usp=sharing
 
-PHP Website(PHP, MongoDB, XAMPP)(Class Project)(Fall 2019)
-•	Created and populated a MongoDB collection. Built a script that restricted access to the valid users we created in the collection. Encrypted all passwords from the users' collection
-•	Built a logout script that cleared all sessions and cookies. Returned controls back to the login page
-•	Verified admin users. Built logic for adding, updating, and deleting users
-•	Used reCaptcha to capture the response from Google to differentiate humans from robotic software programs
+
+PHP Website (PHP, MongoDB, XAMPP) (class project) (fall 2019)
+• Set up and populate a MongoDB collection. We built a script that restricted access to the valid users we created in the collection. All passwords in the users' collections were encrypted.
+• Built a logout script that cleared all sessions and cookies. controls were returned to the login page.
+• Verified administrative users and created logic for adding, updating, and deleting users.
+• Used reCaptcha to capture Google's response in order to distinguish humans from robotic software programs.
 
 What impact does language have on source quality?(Class Project)(Spring 2019)(One project partner)
 •	Extracted data from 121,298 files, 135 public repositories on GitHub
