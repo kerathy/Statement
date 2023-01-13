@@ -133,10 +133,10 @@ Twitter Stream Processor (Spark, Python, JavaScript)
 • Visualized the results for 1% of all public tweets using Ajax and JavaScript
 • Google Cloud Platform deployment and configuration to support external viewing
 
-Real-time Sentiment Analysis (Spark, Kafka, Python)	
-•	Implemented an event queuing layer to ensure stable data flow and system reliability using Kafka
-•	Set up a monitor with Spark (60 Tweets per second) for positive/negative sentiments
-•	Visualized the trends with Python for real-time positive/negative sentiments
+Real-time Sentiment Analysis (Spark, Kafka, Python)
+• Implemented an event queuing layer to ensure stable data flow and system reliability using Kafka
+• Set up a monitor with Spark (60 tweets per second) for positive and negative sentiment.
+• Visualized the trends with Python for real-time positive and negative sentiment
 
 ### Another two personal projects
 Spring Boot - Thymeleaf – CRUD Database Real-Time Project
