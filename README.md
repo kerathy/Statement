@@ -128,10 +128,10 @@ Audio: https://drive.google.com/file/d/1SMXjyJUZr3t-THqSjBUBOGmvDpPW5bjY/view?us
 
 ### Also, I have two other private class projects from May 2020 to June 2020.
 Twitter Stream Processor (Spark, Python, JavaScript)
-•	Built a data ingestion layer with external Twitter API
-•	Processed Twitter hashtags using a real-time processor Spark
-•	Visualized the results for 1% of all public Tweets using Ajax and JavaScript
-•	Deployed and configured on Google Cloud Platform to support external viewing
+• Built a data ingestion layer with an external Twitter API
+• Processed Twitter hashtags using a real-time processor, Spark
+• Visualized the results for 1% of all public tweets using Ajax and JavaScript
+• Google Cloud Platform deployment and configuration to support external viewing
 
 Real-time Sentiment Analysis (Spark, Kafka, Python)	
 •	Implemented an event queuing layer to ensure stable data flow and system reliability using Kafka
