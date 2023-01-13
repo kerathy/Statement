@@ -99,7 +99,7 @@ There's no risk, if that's allowed by global political issues. Companies' HR sys
 
 
 
-### The projects below are what I did during my master's degree. What's more, I have another natural language processing project. Because some recruiters and someone else received my resume before, so if anyone(except for my university's class project partner) uses them for job application or other purposes, please let me know. I do not allow anyone to use my projects. No matter who you are, I will pursue all the losses caused by your impersonation. 
+### The projects below are what I did during my master's degree. What's more, I have another natural language processing project. Because some recruiters and someone else received my resume before, if anyone, except for my university's class project partner, uses them for job applications or other purposes, please let me know. I don't allow anyone else to use my projects. No matter who you are, I will pursue all the losses caused by your pretending. 
 
 
 If anyone finds that kind of situation, you can tell the hr directly, to maintain a fair competitive environment in the United States. I have to guarantee my resume which will not be rejected because someone else uses my projects. If any evidence is needed, please feel free to contact me(LinkedIn). The hiring committee has the right to retract any job offer, any university offer.
