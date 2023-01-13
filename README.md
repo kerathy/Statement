@@ -146,10 +146,10 @@ Spring Boot—Thymeleaf—CRUD Database Real-Time Project
 • Beautify Thymeleaf templates with Bootstrap CSS
 
 A Restaurant Search App
-•	Built app screen layout with React Native
-•	Built reusable components, screen navigation with Hooks, Context and React Navigation
-•	Made  request to run restaurant search with Yelp API and Axios
-•	Visualized the real-time result of different restaurants and their detailed information between different screens
+• Created app screen layout using React Native
+• Created reusable components, hooks for screen navigation, context, and react navigation
+• Made a request to run restaurant searches with the Yelp API and Axios
+• Visualized the real-time results of various restaurants as well as their detailed information across multiple screens.
 
 Actually, I rarely talked about my career, my life and my family to someone else. It is not surprising that they do not know about me. Some of them I have not contacted and seen them more than a decade. For some stuffs, they do not know and may just guess, and it does not matter. If anyone has any concerns, you can contact me directly. Especially for the work I did in icbc before, it is unnecessary to explain it to someone else. If you have not worked for a bank before, it is normal that you do not know what it is, not a big deal. Everyone’s career path is different, they may just guess what I did before looking at others' career path, it does not matter. Again, I am not responsible for other's life, do not slow me down.
 
