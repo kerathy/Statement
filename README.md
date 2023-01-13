@@ -118,11 +118,11 @@ PHP Website (PHP, MongoDB, XAMPP) (class project) (fall 2019)
 • Verified administrative users and created logic for adding, updating, and deleting users.
 • Used reCaptcha to capture Google's response in order to distinguish humans from robotic software programs.
 
-What impact does language have on source quality?(Class Project)(Spring 2019)(One project partner)
-•	Extracted data from 121,298 files, 135 public repositories on GitHub
-•	Created custom feature extractors for each language using publicly available ANTLR4 grammars
-•	Calculated some additional features from the dataset
-•	Provided insights of the real-world strengths and weaknesses of various languages naturally utilized by a typical team of engineers
+What impact does language have on source quality? (class project) (spring 2019) (one project partner)
+• Extracted data from 121,298 files in 135 public repositories on GitHub
+• Created custom feature extractors for each language using publicly available ANTLR4 grammars
+• Derived some extra features from the dataset.
+• Provided insights into the real-world strengths and weaknesses of various languages naturally utilized by a typical team of engineers
 Audio: https://drive.google.com/file/d/1SMXjyJUZr3t-THqSjBUBOGmvDpPW5bjY/view?usp=sharing
 
 
