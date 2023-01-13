@@ -142,19 +142,19 @@ Real-time Sentiment Analysis (Spark, Kafka, Python)
 • Visualized the trends with Python for real-time positive and negative sentiment
 
 ### Another two personal projects
-Spring Boot—Thymeleaf—CRUD Database Real-Time Project
+Spring Boot—Thymeleaf—CRUD Database Real-Time Project (Udemy Course)
 • Used the Service Layer design pattern to create a controller to handle web browser requests.
 • Integrated Repository to execute CRUD actions with Spring Data JPA
 • Created Thymeleaf templates to display database results.
 • Beautify Thymeleaf templates with Bootstrap CSS
 
-A Restaurant Search App
+A Restaurant Search App (Udemy Course)
 • Created app screen layout using React Native
 • Created reusable components, hooks for screen navigation, context, and react navigation
 • Made a request to run restaurant searches with the Yelp API and Axios
 • Visualized the real-time results of various restaurants as well as their detailed information across multiple screens.
 
-Actually, I rarely talk about my career, my life, or my family with someone else. It is not surprising that they don't know about me. Some of them I haven't contacted or seen in more than a decade. For some things, they don't know and may just guess, and it doesn't matter. If anyone has any concerns, you can contact me directly. It is unnecessary to explain the work I did previously at ICBC to someone else. If you have never worked for a bank before, it is normal that you don't know what it is; it's not a big deal. Everyone’s career path is different; they may just guess what I did before looking at others' career paths; it doesn't matter. Again, I am not responsible for the lives of others; please do not slow me down.
+Actually, I rarely talk about my career, my life, or my family with someone else. It is not surprising that they don't know about me. Some of them I haven't contacted or seen in more than a decade. I don't know their jobs or lives either. For some things, they don't know and may just guess, and it doesn't matter. If anyone has any concerns, you can contact me directly. It is unnecessary to explain the work I did previously at ICBC to someone else. If you have never worked for a bank before, it is normal that you don't know what it is; it's not a big deal. Everyone’s career path is different; they may just guess what I did before looking at others' career paths; it doesn't matter. Again, I am not responsible for the lives of others; please do not slow me down.
 
 If anyone has any concerns, please feel free to contact me through LinkedIn. Attached is my resume.
 https://docs.google.com/document/d/1peQ2ImqMTU1R6-V4k0WZVey-4oYK5jzjgpwSN29J94g/edit?usp=sharing
