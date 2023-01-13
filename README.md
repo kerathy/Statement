@@ -1,5 +1,7 @@
 I didn't use any tools in the post I wrote before; it was a draft. It's similar to "handwriting," a metaphor. I am rewriting now; it's not finished yet.
 
+I rewrite things very quickly, so don't worry about that; there won't be any writing issues with my work.
+
 Statement Audio (I recorded the audio on May 7th, 2022):
 https://drive.google.com/file/d/1_NaJneoA0KdtLOxSNkWRyoAmAjEwbZMQ/view?usp=sharing
 
