@@ -126,7 +126,7 @@ What impact does language have on source quality? (class project) (spring 2019) 
 Audio: https://drive.google.com/file/d/1SMXjyJUZr3t-THqSjBUBOGmvDpPW5bjY/view?usp=sharing
 
 
-### Also I have other two private class projects from May 2020 to Jun 2020.
+### Also, I have two other private class projects from May 2020 to June 2020.
 Twitter Stream Processor (Spark, Python, JavaScript)
 •	Built a data ingestion layer with external Twitter API
 •	Processed Twitter hashtags using a real-time processor Spark
