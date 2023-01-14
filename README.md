@@ -125,7 +125,7 @@ What impact does language have on source quality? (USU class project) (spring 20
 • Extracted data from 121,298 files in 135 public repositories on GitHub
 • Created custom feature extractors for each language using publicly available ANTLR4 grammars
 • Derived some extra features from the dataset.
-• Provided insights into the real-world strengths and weaknesses of various languages naturally utilized by a typical team of engineers
+• Provided insights into the strengths and weaknesses of various languages that are commonly used by a typical engineering team in the real world. 
 Audio: https://drive.google.com/file/d/1SMXjyJUZr3t-THqSjBUBOGmvDpPW5bjY/view?usp=sharing
 
 
