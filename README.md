@@ -121,7 +121,7 @@ PHP Website (PHP, MongoDB, XAMPP) (USU Class Project) (Fall 2019)
 • Verified administrative users and created logic for adding, updating, and deleting users.
 • Used reCaptcha to capture Google's response in order to distinguish humans from robotic software programs.
 
-What impact does language have on source quality? (USU class project) (spring 2019) (one project partner)
+What impact does language have on source quality? (USU Class Project) (spring 2019) (one project partner)
 • Extracted data from 121,298 files in 135 public repositories on GitHub
 • Created custom feature extractors for each language using publicly available ANTLR4 grammars
 • Derived some extra features from the dataset.
