@@ -109,7 +109,7 @@ If you come across a situation like this, you can notify HR immediately to maint
 
 
 Book Brainiacs (C#, ASP.NET, ADO.NET, and Ajax) (USU Class Project) (Fall 2018) (one project partner)
-•	Designed and implemented shopping cart features, including the function for customers to browse books.
+•	Designed and implemented shopping cart features, including the function for customers to browse books.<br/>
 • Enabled customers to update their profile information and provide contact information.
 • Allowed the administrator to manage user roles, book category information, and contact information
 Audio: https://drive.google.com/file/d/1c2eFn6IwYBb3h2rXL7HNOejdbMo9NZov/view?usp=sharing
