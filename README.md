@@ -108,7 +108,7 @@ There's no risk, if that's allowed by global political issues. Companies' HR sys
 If you come across a situation like this, you can notify HR immediately to maintain a fair competitive environment in the United States. I have to guarantee my resume will not be rejected because someone else uses my projects. If any evidence is needed, please feel free to contact me on LinkedIn. The hiring committee has the right to retract any job offer or any university offer.
 
 
-Book Brainiacs (C#, ASP.NET, ADO.NET, and Ajax) (USU Class Project) (Fall 2018) (one project partner)<br/>
+##Book Brainiacs (C#, ASP.NET, ADO.NET, and Ajax) (USU Class Project) (Fall 2018) (one project partner)<br/>
 •	Designed and implemented shopping cart features, including the function for customers to browse books.<br/>
 • Enabled customers to update their profile information and provide contact information.<br/>
 • Allowed the administrator to manage user roles, book category information, and contact information<br/>
