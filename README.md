@@ -108,14 +108,14 @@ There's no risk, if that's allowed by global political issues. Companies' HR sys
 If you come across a situation like this, you can notify HR immediately to maintain a fair competitive environment in the United States. I have to guarantee my resume will not be rejected because someone else uses my projects. If any evidence is needed, please feel free to contact me on LinkedIn. The hiring committee has the right to retract any job offer or any university offer.
 
 
-### Book Brainiacs (C#, ASP.NET, ADO.NET, and Ajax) (USU Class Project) (Fall 2018) (one project partner)<br/>
+## Book Brainiacs (C#, ASP.NET, ADO.NET, and Ajax) (USU Class Project) (Fall 2018) (one project partner)<br/>
 •	Designed and implemented shopping cart features, including the function for customers to browse books.<br/>
 • Enabled customers to update their profile information and provide contact information.<br/>
 • Allowed the administrator to manage user roles, book category information, and contact information<br/>
 Audio: https://drive.google.com/file/d/1c2eFn6IwYBb3h2rXL7HNOejdbMo9NZov/view?usp=sharing
 
 
-### PHP Website (PHP, MongoDB, XAMPP) (USU Class Project) (Fall 2019)<br/>
+## PHP Website (PHP, MongoDB, XAMPP) (USU Class Project) (Fall 2019)<br/>
 • Set up and populate a MongoDB collection. We built a script that restricted access to the valid users we created in the collection. All passwords in the users' collections were encrypted.<br/>
 • Built a logout script that cleared all sessions and cookies. controls were returned to the login page.<br/>
 • Verified administrative users and created logic for adding, updating, and deleting users.<br/>
