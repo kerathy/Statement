@@ -130,29 +130,29 @@ Audio: https://drive.google.com/file/d/1SMXjyJUZr3t-THqSjBUBOGmvDpPW5bjY/view?us
 
 
 ### Also, I have two other private class projects from May 2020 to June 2020.
-### Twitter Stream Processor (Spark, Python, JavaScript)
-• Built a data ingestion layer with an external Twitter API
-• Processed Twitter hashtags using a real-time processor, Spark
-• Visualized the results for 1% of all public tweets using Ajax and JavaScript
-• Google Cloud Platform deployment and configuration to support external viewing
+#### Twitter Stream Processor (Spark, Python, JavaScript)<br/>
+• Built a data ingestion layer with an external Twitter API.<br/>
+• Processed Twitter hashtags using a real-time processor, Spark.<br/>
+• Visualized the results for 1% of all public tweets using Ajax and JavaScript.<br/>
+• Google Cloud Platform deployment and configuration to support external viewing.<br/>
 
-#### Real-time Sentiment Analysis (Spark, Kafka, Python)
-• Implemented an event queuing layer to ensure stable data flow and system reliability using Kafka
-• Set up a monitor with Spark (60 tweets per second) for positive and negative sentiment.
-• Visualized the trends with Python for real-time positive and negative sentiment
+#### Real-time Sentiment Analysis (Spark, Kafka, Python)<br/>
+• Implemented an event queuing layer to ensure stable data flow and system reliability using Kafka.<br/>
+• Set up a monitor with Spark (60 tweets per second) for positive and negative sentiment.<br/>
+• Visualized the trends with Python for real-time positive and negative sentiment.<br/>
 
 ### Another two personal projects
-#### Spring Boot - Thymeleaf - CRUD Database Real-Time Project (Udemy Course)
-• Used the Service Layer design pattern to create a controller to handle web browser requests.
-• Integrated Repository to execute CRUD actions with Spring Data JPA.
-• Created Thymeleaf templates to display database results.
-• Beautify Thymeleaf templates with Bootstrap CSS.
+#### Spring Boot - Thymeleaf - CRUD Database Real-Time Project (Udemy Course)<br/>
+• Used the Service Layer design pattern to create a controller to handle web browser requests.<br/>
+• Integrated Repository to execute CRUD actions with Spring Data JPA.<br/>
+• Created Thymeleaf templates to display database results.<br/>
+• Beautify Thymeleaf templates with Bootstrap CSS.<br/>
 
-#### A Restaurant Search App (Udemy Course)
-• Created app screen layout using React Native
-• Created reusable components, hooks for screen navigation, context, and react navigation
-• Made a request to run restaurant searches with the Yelp API and Axios
-• Visualized the real-time results of various restaurants as well as their detailed information across multiple screens.
+#### A Restaurant Search App (Udemy Course)<br/>
+• Created app screen layout using React Native.<br/>
+• Created reusable components, hooks for screen navigation, context, and react navigation.<br/>
+• Made a request to run restaurant searches with the Yelp API and Axios.<br/>
+• Visualized the real-time results of various restaurants as well as their detailed information across multiple screens.<br/>
 
 Actually, I rarely talk about my career, my life, or my family with someone else. It is not surprising that they don't know about me. Some of them I haven't contacted or seen in more than a decade. I don't know their jobs or lives either. I am not responsible for others' behaviors, no matter who you are. For some things, they don't know and may just guess, and it doesn't matter. If anyone has any concerns, you can contact me directly. It is unnecessary to explain the work I did previously at ICBC to someone else. If you have never worked for a bank before, it is normal that you don't know what it is; it's not a big deal. Everyone’s career path is different; they may just guess what I did before looking at others' career paths; it doesn't matter. Again, I am not responsible for the lives of others; please do not slow me down.
 
