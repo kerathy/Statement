@@ -108,20 +108,20 @@ There's no risk, if that's allowed by global political issues. Companies' HR sys
 If you come across a situation like this, you can notify HR immediately to maintain a fair competitive environment in the United States. I have to guarantee my resume will not be rejected because someone else uses my projects. If any evidence is needed, please feel free to contact me on LinkedIn. The hiring committee has the right to retract any job offer or any university offer.
 
 
-##Book Brainiacs (C#, ASP.NET, ADO.NET, and Ajax) (USU Class Project) (Fall 2018) (one project partner)<br/>
+### Book Brainiacs (C#, ASP.NET, ADO.NET, and Ajax) (USU Class Project) (Fall 2018) (one project partner)<br/>
 •	Designed and implemented shopping cart features, including the function for customers to browse books.<br/>
 • Enabled customers to update their profile information and provide contact information.<br/>
 • Allowed the administrator to manage user roles, book category information, and contact information<br/>
 Audio: https://drive.google.com/file/d/1c2eFn6IwYBb3h2rXL7HNOejdbMo9NZov/view?usp=sharing
 
 
-PHP Website (PHP, MongoDB, XAMPP) (USU Class Project) (Fall 2019)<br/>
+### PHP Website (PHP, MongoDB, XAMPP) (USU Class Project) (Fall 2019)<br/>
 • Set up and populate a MongoDB collection. We built a script that restricted access to the valid users we created in the collection. All passwords in the users' collections were encrypted.<br/>
 • Built a logout script that cleared all sessions and cookies. controls were returned to the login page.<br/>
 • Verified administrative users and created logic for adding, updating, and deleting users.<br/>
 • Used reCaptcha to capture Google's response in order to distinguish humans from robotic software programs.<br/>
 
-What impact does language have on source quality? (USU Class Project) (Spring 2019) (one project partner)<br/>
+### What impact does language have on source quality? (USU Class Project) (Spring 2019) (one project partner)<br/>
 • Extracted data from 121,298 files in 135 public repositories on GitHub.<br/>
 • Created custom feature extractors for each language using publicly available ANTLR4 grammars.<br/>
 • Derived some extra features from the dataset.<br/>
@@ -130,25 +130,25 @@ Audio: https://drive.google.com/file/d/1SMXjyJUZr3t-THqSjBUBOGmvDpPW5bjY/view?us
 
 
 ### Also, I have two other private class projects from May 2020 to June 2020.
-Twitter Stream Processor (Spark, Python, JavaScript)
+### Twitter Stream Processor (Spark, Python, JavaScript)
 • Built a data ingestion layer with an external Twitter API
 • Processed Twitter hashtags using a real-time processor, Spark
 • Visualized the results for 1% of all public tweets using Ajax and JavaScript
 • Google Cloud Platform deployment and configuration to support external viewing
 
-Real-time Sentiment Analysis (Spark, Kafka, Python)
+### Real-time Sentiment Analysis (Spark, Kafka, Python)
 • Implemented an event queuing layer to ensure stable data flow and system reliability using Kafka
 • Set up a monitor with Spark (60 tweets per second) for positive and negative sentiment.
 • Visualized the trends with Python for real-time positive and negative sentiment
 
 ### Another two personal projects
-Spring Boot - Thymeleaf - CRUD Database Real-Time Project (Udemy Course)
+### Spring Boot - Thymeleaf - CRUD Database Real-Time Project (Udemy Course)
 • Used the Service Layer design pattern to create a controller to handle web browser requests.
 • Integrated Repository to execute CRUD actions with Spring Data JPA.
 • Created Thymeleaf templates to display database results.
 • Beautify Thymeleaf templates with Bootstrap CSS.
 
-A Restaurant Search App (Udemy Course)
+### A Restaurant Search App (Udemy Course)
 • Created app screen layout using React Native
 • Created reusable components, hooks for screen navigation, context, and react navigation
 • Made a request to run restaurant searches with the Yelp API and Axios
