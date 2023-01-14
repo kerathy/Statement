@@ -121,7 +121,7 @@ PHP Website (PHP, MongoDB, XAMPP) (USU Class Project) (Fall 2019)
 • Verified administrative users and created logic for adding, updating, and deleting users.
 • Used reCaptcha to capture Google's response in order to distinguish humans from robotic software programs.
 
-What impact does language have on source quality? (USU Class Project) (spring 2019) (one project partner)
+What impact does language have on source quality? (USU Class Project) (Spring 2019) (one project partner)
 • Extracted data from 121,298 files in 135 public repositories on GitHub
 • Created custom feature extractors for each language using publicly available ANTLR4 grammars
 • Derived some extra features from the dataset.
@@ -142,11 +142,11 @@ Real-time Sentiment Analysis (Spark, Kafka, Python)
 • Visualized the trends with Python for real-time positive and negative sentiment
 
 ### Another two personal projects
-Spring Boot—Thymeleaf—CRUD Database Real-Time Project (Udemy Course)
+Spring Boot - Thymeleaf - CRUD Database Real-Time Project (Udemy Course)
 • Used the Service Layer design pattern to create a controller to handle web browser requests.
-• Integrated Repository to execute CRUD actions with Spring Data JPA
+• Integrated Repository to execute CRUD actions with Spring Data JPA.
 • Created Thymeleaf templates to display database results.
-• Beautify Thymeleaf templates with Bootstrap CSS
+• Beautify Thymeleaf templates with Bootstrap CSS.
 
 A Restaurant Search App (Udemy Course)
 • Created app screen layout using React Native
