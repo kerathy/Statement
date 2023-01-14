@@ -129,7 +129,7 @@ Audio: https://drive.google.com/file/d/1c2eFn6IwYBb3h2rXL7HNOejdbMo9NZov/view?us
 Audio: https://drive.google.com/file/d/1SMXjyJUZr3t-THqSjBUBOGmvDpPW5bjY/view?usp=sharing
 
 
-### Also, I have two other private class projects from May 2020 to June 2020.
+#### Also, I have two other private class projects from May 2020 to June 2020, just for more job opportunities at that time.
 #### Twitter Stream Processor (Spark, Python, JavaScript)<br/>
 • Built a data ingestion layer with an external Twitter API.<br/>
 • Processed Twitter hashtags using a real-time processor, Spark.<br/>
@@ -141,7 +141,7 @@ Audio: https://drive.google.com/file/d/1SMXjyJUZr3t-THqSjBUBOGmvDpPW5bjY/view?us
 • Set up a monitor with Spark (60 tweets per second) for positive and negative sentiment.<br/>
 • Visualized the trends with Python for real-time positive and negative sentiment.<br/>
 
-### Another two personal projects
+#### Another two personal projects
 #### Spring Boot - Thymeleaf - CRUD Database Real-Time Project (Udemy Course)<br/>
 • Used the Service Layer design pattern to create a controller to handle web browser requests.<br/>
 • Integrated Repository to execute CRUD actions with Spring Data JPA.<br/>
