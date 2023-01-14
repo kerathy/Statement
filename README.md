@@ -141,7 +141,7 @@ Audio: https://drive.google.com/file/d/1SMXjyJUZr3t-THqSjBUBOGmvDpPW5bjY/view?us
 • Set up a monitor with Spark (60 tweets per second) for positive and negative sentiment.<br/>
 • Visualized the trends with Python for real-time positive and negative sentiment.<br/>
 
-#### Another two personal projects
+#### Another two personal projects:
 #### Spring Boot - Thymeleaf - CRUD Database Real-Time Project (Udemy Course)<br/>
 • Used the Service Layer design pattern to create a controller to handle web browser requests.<br/>
 • Integrated Repository to execute CRUD actions with Spring Data JPA.<br/>
