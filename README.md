@@ -10,7 +10,7 @@ https://www.instagram.com/kerathy_xiaoyan/
 
 ### I am not bound to any companies. Any job opportunities are welcome. 
 
-I don't work on C2C now. Get what you deserve. That will slow down my career. I am not responsible for others' lives. I don't help to cover university admission's mistakes. Hard work pays off.
+I don't work on C2C now. Get what you deserve. That will slow down my career. I am not responsible for others' lives. I don't help to cover the university admission committee's mistakes. Hard work pays off.
 
 We have books and the internet. You can learn anything alone.
 
