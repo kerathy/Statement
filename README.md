@@ -12,6 +12,8 @@ https://www.instagram.com/kerathy_xiaoyan/
 
 I don't work on C2C now. Get what you deserve. That will slow down my career. I am not responsible for others' lives. Hard work pays off.
 
+We have books and the internet. You can learn anything alone.
+
 I don't conduct interviews on behalf of anyone. I say my name in the interview. My voice is easy to recognize. Don't pretend to be me; it's easy to tell. If it involves corruption, that's not something I can control.
 
 On May 7th, 2022, I made the statement (it should have been earlier; perhaps github can show the time; I forgot; it should have been earlier than when I uploaded the audio). Sometimes I update something, and the last updated date is June 14, 2022. I uploaded the audio on May 7, 2022. That's live; you can check my Github history.
