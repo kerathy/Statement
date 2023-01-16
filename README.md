@@ -8,7 +8,9 @@ https://drive.google.com/file/d/1_NaJneoA0KdtLOxSNkWRyoAmAjEwbZMQ/view?usp=shari
 Instagram:
 https://www.instagram.com/kerathy_xiaoyan/
 
-### I am not bound to any companies. Any job opportunities are welcome. I don't work on C2C now. Get what you deserve.
+### I am not bound to any companies. Any job opportunities are welcome. 
+
+I don't work on C2C now. Get what you deserve. That will slow down my career. I am not responsible for others' lives.
 
 I don't conduct interviews on behalf of anyone. I say my name in the interview. My voice is easy to recognize. Don't pretend to be me; it's easy to tell. If it involves corruption, that's not something I can control.
 
