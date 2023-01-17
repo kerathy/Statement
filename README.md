@@ -1,4 +1,4 @@
-I didn't use any tools in the post I wrote before; it was a draft. It's similar to "handwriting," a metaphor. I am rewriting now; it's not finished yet.
+I didn't use any tools in the post I wrote before; it was a draft. It's similar to "handwriting," a metaphor. This statement was rewritten on January 16, 2022.
 
 I rewrite things very quickly, so don't worry about that; there won't be any writing issues with my work.
 
