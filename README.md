@@ -12,6 +12,8 @@ https://www.instagram.com/kerathy_xiaoyan/
 
 I don't work on C2C now. Get what you deserve. That will slow down my career. I am not responsible for others' lives. I don't help to cover the university admission committee's mistakes. Preventing competency and equality slows down the development of society. Hard work pays off. HR hires employees for the sake of the company's profit—how much you pay, how much effort we put in. 
 
+I am not responsible for others' ICC contracts. I won't choose someone who has had penalty arguments with the ICC and hasn't negotiated well as my future boyfriend. Therefore, it is none of my business.
+
 We have books and the internet. You can learn anything alone.
 
 I don't conduct interviews on behalf of anyone. I say my name in the interview. My voice is easy to recognize. Don't pretend to be me; it's easy to tell. If it involves corruption, that's not something I can control.
