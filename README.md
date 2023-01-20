@@ -10,7 +10,9 @@ https://www.instagram.com/kerathy_xiaoyan/
 
 Please stop the spam calls and spam emails. Thanks! Furthermore, I have received some unknown calls in the last few months, lasting only one or two seconds, and I have no idea what is going on; please stop bothering me. 
 
-### I am not bound to any companies. Any job opportunities are welcome. 
+### I am not bound to any companies; that will affect my career path. Any job opportunities are welcome.
+
+I didn't allow anyone to use my selfies before, no matter who you were, so I am not responsible for others' behaviors.
 
 I don't work on C2C now. Get what you deserve. That will slow down my career. I am not responsible for others' lives. I don't help to cover the university admission committee's mistakes. Preventing competency and equality slows down the development of society. Hard work pays off. HR hires employees for the sake of the company's profit—how much you pay, how much effort we put in. 
 
