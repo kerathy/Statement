@@ -12,7 +12,7 @@ Please stop the spam calls and spam emails. Thanks! Furthermore, I have received
 
 ### I am not bound to any companies; that will affect my career path. Any job opportunities are welcome.
 
-It makes no difference whether the opportunities come from my universities' network or not, as long as they come from SynergisticIT's channel. As long as I have the capability to do that job, we should not have any problems. I know a lot of people; should I avoid job opportunities from them? Definitely not.
+For SynergisticIT's contract that I signed before, it makes no difference whether the opportunities come from my universities' network or not, as long as they come from SynergisticIT's channel. As long as I have the capability to do that job, we should not have any problems. I know a lot of people; should I avoid job opportunities from them? Definitely not.
 
 I didn't allow anyone to use my selfies before, no matter who you were, so I am not responsible for others' behaviors.
 
