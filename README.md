@@ -12,6 +12,8 @@ Please stop the spam calls and spam emails. Thanks! Furthermore, I have received
 
 ### I am not bound to any companies; that will affect my career path. Any job opportunities are welcome.
 
+It makes no difference whether the opportunities come from my universities' network or not, as long as they come from their channel. As long as I have the capability to do that job, we should not have any problems.
+
 I didn't allow anyone to use my selfies before, no matter who you were, so I am not responsible for others' behaviors.
 
 I don't work on C2C now. Get what you deserve. That will slow down my career. I am not responsible for others' lives. I don't help to cover the university admission committee's mistakes. Preventing competency and equality slows down the development of society. Hard work pays off. HR hires employees for the sake of the company's profit—how much you pay, how much effort we put in. 
