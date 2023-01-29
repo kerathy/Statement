@@ -101,6 +101,7 @@ I guarantee that I didn't disclose anything that shouldn't be disclosed, includi
 
 
 Some recruiters have received the PDF of my passport, visa, EAD, and certificate of master's degree before. China may have the PDF of my identification card, but they don't have the original ones; therefore, you can let them show the original ones if someone pretends to be me. However, all of them can sometimes be counterfeited. If anyone discovers someone pretending to be me, please let me know. I will take legal action. Furthermore, this is my previous leetcode account username: plmoknijb. I changed the username on July 27th, 2022. I don't want my Leetcode history to be tracked. Therefore, I changed that. I haven't recorded any videos about solving leetcode questions with this account, plmoknijb, but I have done an interview about solving leetcode questions with this account once before, when I signed up for a marketing program with SynergisticIT. Just once, a company's interview opportunity from the SynergisticIT channel. I didn't remember that company's name. just in case of fraud. That's a Zoom meeting. So the interview date should be after April 14th, 2022, but before July 27th, 2022.
+I don't remember exactly the second question; it was a long time ago. I just remembered Top K.
 
 
 <img width="675" alt="Screen Shot 2023-01-29 at 12 47 08 PM" src="https://user-images.githubusercontent.com/33749919/215354981-2b1a42c6-5ff8-4636-98da-09fb5f080c68.png">
