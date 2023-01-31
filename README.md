@@ -161,7 +161,9 @@ Audio: https://drive.google.com/file/d/1SMXjyJUZr3t-THqSjBUBOGmvDpPW5bjY/view?us
 
 #### Also, I have two other private class projects from May 2020 to June 2020, just for more job opportunities at that time.
 
+
 No matter what kind of private or university class I took before, I never disclosed any class notes or class questions to anyone before. So don't worry about that. Private classes—that's your business. It's none of my business. I will not share them with others in the future, no matter who you are. I won't damage others' benefits. Don't worry about that.
+
 
 #### Twitter Stream Processor (Spark, Python, JavaScript)<br/>
 • Built a data ingestion layer with an external Twitter API.<br/>
