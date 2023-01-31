@@ -160,6 +160,9 @@ Audio: https://drive.google.com/file/d/1SMXjyJUZr3t-THqSjBUBOGmvDpPW5bjY/view?us
 
 
 #### Also, I have two other private class projects from May 2020 to June 2020, just for more job opportunities at that time.
+
+No matter what kind of private class I took before, I never disclosed any private class notes or private class questions to anyone before. So don't worry about that. That's your business. none of my business.
+
 #### Twitter Stream Processor (Spark, Python, JavaScript)<br/>
 • Built a data ingestion layer with an external Twitter API.<br/>
 • Processed Twitter hashtags using a real-time processor, Spark.<br/>
