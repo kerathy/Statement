@@ -162,7 +162,7 @@ Audio: https://drive.google.com/file/d/1SMXjyJUZr3t-THqSjBUBOGmvDpPW5bjY/view?us
 #### Also, I have two other private class projects from May 2020 to June 2020, just for more job opportunities at that time.
 
 
-No matter what kind of private or university class I took before, I never disclosed any class notes or class questions to anyone before. So don't worry about that. Private classes—that's your business. It's none of my business. I will not share them with others in the future, no matter who you are. I will not damage others' benefits. Don't worry about that. I don't want to be involved in patent issues. The problems I met in the interviews are not the same, and the solutions I provided are not the same. There shouldn't be any issues. If you're talking about similar coding questions, if you practice a lot, it's possible for you to have similar questions in the interview.
+No matter what kind of private or university class I took before, I never disclosed any class notes or class questions to anyone before. So don't worry about that. Private classes—that's your business. It's none of my business. I will not share them with others in the future, no matter who you are. I will not damage others' benefits. Don't worry about that. I don't want to be involved in patent issues. The questions I met in the interviews were not the same, and the solutions I provided were not the same. There shouldn't be any issues. If you're talking about similar coding questions, if you practice a lot, it's possible for you to have similar questions in the interview.
 
 
 #### Twitter Stream Processor (Spark, Python, JavaScript)<br/>
