@@ -1,6 +1,6 @@
 I didn't use any tools in the post I wrote before; it was a draft. It's similar to "handwriting," a simile. This statement was rewritten and finished on January 16, 2022, and updated on Feb 6, 2022.
 
-Please don't confuse me with anyone else; up till now (May 2023), I've only lived in China and the United States. I am not a twin. I have never visited other countries. This page was updated on May 10, 2023. If there is anything else I should clarify, please email me.
+Please don't confuse me with anyone else; up till now (May 2023), I've only lived in China and the United States. I am not a twin. I have never visited other countries. This page was updated on May 10, 2023. If there is anything else I should clarify, please email me. Just in case there is any online blind dating scam. I am not familiar with them.
 
 I rewrite things very quickly, so don't worry about that; there won't be any writing issues with my work.
 
