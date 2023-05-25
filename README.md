@@ -18,6 +18,9 @@ https://drive.google.com/file/d/1_NaJneoA0KdtLOxSNkWRyoAmAjEwbZMQ/view?usp=shari
 Instagram:
 https://www.instagram.com/kerathy_xiaoyan/
 
+YouTube:
+https://www.youtube.com/@ke426
+
 Please stop the spam calls and spam emails. Thanks! Furthermore, I have received some unknown calls in the last few months, lasting only one or two seconds, and I have no idea what is going on; please stop bothering me. 
 
 ### I am not bound to any companies; that will affect my career path. Any job opportunities are welcome.
